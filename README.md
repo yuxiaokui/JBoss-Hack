@@ -1,0 +1,2 @@
+通过调用zoomeye来获取安装JBoss机器的地址，然后通过HEAD请求植入webshell。
+wxPython写了一个界面的控制程序。
